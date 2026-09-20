@@ -48,10 +48,12 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     print("X%d = %0.2f " %(i,x[i]), end = "")
 ```
-<img width="1026" height="690" alt="image" src="https://github.com/user-attachments/assets/8d6ac939-4582-4e2b-b154-ee62f1a9a59a" />
+<img width="1228" height="840" alt="image" src="https://github.com/user-attachments/assets/82b3f609-3df3-4e60-8f91-28f4df32c928" />
 
 ## Output:
-<img width="888" height="447" alt="image" src="https://github.com/user-attachments/assets/3aa4d34a-3809-4ee9-a6a6-79aad2c536bc" />
+<img width="1131" height="492" alt="image" src="https://github.com/user-attachments/assets/52296c1c-a20b-4346-b774-84fa27085aca" />
+
+
 
 
 ## Result:
